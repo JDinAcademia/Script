@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 13 22:53:43 2021
+Created on Mon Jan 13 22:53:43 2022
 
 Least square: is a standard approach in regression analysis to approximate the solution of overdetermined model
 (e.g., equation in which there are more equation/knowns than unknowns) by minimizing the sum of the square of the residuals (error)
